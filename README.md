@@ -230,7 +230,7 @@ Prioritize operational reviews based on validated delay rate, late-order volume,
 
 The dashboard is designed around the questions management needs to answer.
 
-![Healthcare Readmission Dashboard](supply-chain-logistics-analytics/images/dashboard-screenshot.jpg)
+![Supply Chain & Logistics Analytics](supply-chain-logistics-analytics/images/dashboard-screenshot.jpg)
 
 ---
 
