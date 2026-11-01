@@ -230,36 +230,7 @@ Prioritize operational reviews based on validated delay rate, late-order volume,
 
 The dashboard is designed around the questions management needs to answer.
 
-### Executive Overview
-- Total Orders
-- Late Orders
-- Late-Delivery Rate
-- Total Sales
-- Total Profit
-
-### Shipping Performance
-- Late-delivery rate by shipping mode
-- Late orders by shipping mode
-- Late-delivery rate and volume by region
-- Actual versus scheduled shipping duration
-
-### Category Profitability
-- Sales by product category
-- Profit by product category
-- Profit margin by category
-- High-sales, below-average-margin category view
-
-### Bottleneck Investigation
-- Market and department delay matrix
-- High-volume / high-delay segments
-- Priority areas for further investigation
-
-### Suggested Filters
-- Market
-- Shipping Mode
-- Order Region
-- Department Name
-- Category Name
+![Healthcare Readmission Dashboard](images/dashboard-screenshot.jpg)
 
 ---
 
